@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.li-item {
+  width: 100%;
+}
+
+.first-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.post-name {
+  color: #12022f;
+  font-size: 20px;
+}
+
+.date-given {
+  color: #9aa5b1;
+  font-size: 18px;
+}
+
+.content-given {
+  color: #616e7c;
+  font-size: 18px;
+}
